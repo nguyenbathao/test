@@ -1,0 +1,21 @@
+.main{
+  display: flex;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  
+  font-family: "Poppins", sans-serif;
+}
+
+.side-bar{
+  width: 50%;
+}
+
+.signupform{
+  padding-left: 50px;
+  padding-top: 10px;
+}
+
+
